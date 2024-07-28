@@ -52,7 +52,7 @@ const Login = () => {
 
             <p className='text-sm text-center mt-4'>
               Not Registered Yet? {" "}
-              <Link to="/signUp" className="font-medium text-primary ">
+              <Link to="/signup" className="font-medium text-primary ">
                 Create an Account
               </Link>
             </p>
